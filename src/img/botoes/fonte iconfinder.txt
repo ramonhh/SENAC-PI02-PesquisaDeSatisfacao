@@ -1,0 +1,17 @@
+Source: 	Iconfinder (www.iconfinder.com)
+License: 	Free for commercial use (Do not redistribute)
+By: 		Yannick Lung
+Icon set: 	Hawcons
+Link:		https://www.iconfinder.com/yanlu
+
+Source: 	Iconfinder (www.iconfinder.com)
+License: 	Free for commercial use (Include link to authors website)
+By: 		Linh Pham Thi Dieu
+Icon set: 	Miu 
+Link:		https://www.iconfinder.com/phdieuli
+
+Source: 	Iconfinder (www.iconfinder.com)
+License:	Free for commercial use
+By:             Gregor Cresnar
+Icon set:	Business 101
+Link:           https://www.iconfinder.com/iconsets/business-101-1
